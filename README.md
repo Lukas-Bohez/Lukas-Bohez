@@ -10,9 +10,8 @@
 Lukas-Bohez/Lukas-Bohez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-A special chatgpt announcement, using the prompt, and the new memory feature,
-prompt :
-make a github introduction to me, but be sure to  start it with an anouncement of such that people don't think I'm describing myself but that it's obvious you are describing me
+A special chatgpt announcement, using the prompt, and the new memory feature:
+
 
 An Announcement from York
 
