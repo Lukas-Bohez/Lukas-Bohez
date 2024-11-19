@@ -976,7 +976,7 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jjamF76ZFGLM61fMGyJo-27" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;" parent="1" source="jjamF76ZFGLM61fMGyJo-2" target="jjamF76ZFGLM61fMGyJo-15" edge="1">
+        <mxCell id="jjamF76ZFGLM61fMGyJo-27" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="jjamF76ZFGLM61fMGyJo-2" target="jjamF76ZFGLM61fMGyJo-15" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="370" y="3590" as="sourcePoint" />
             <mxPoint x="470" y="3490" as="targetPoint" />
@@ -1243,7 +1243,7 @@
             <mxPoint x="540" y="4810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jjamF76ZFGLM61fMGyJo-41" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;" parent="1" source="jjamF76ZFGLM61fMGyJo-29" target="jjamF76ZFGLM61fMGyJo-18" edge="1">
+        <mxCell id="jjamF76ZFGLM61fMGyJo-41" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="jjamF76ZFGLM61fMGyJo-29" target="jjamF76ZFGLM61fMGyJo-18" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="590" y="3600" as="sourcePoint" />
             <mxPoint x="690" y="3500" as="targetPoint" />
@@ -1408,7 +1408,7 @@
             <mxRectangle width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KFwMwqqR918DmGg9Iwn6-14" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="jjamF76ZFGLM61fMGyJo-2" target="KFwMwqqR918DmGg9Iwn6-2" edge="1">
+        <mxCell id="KFwMwqqR918DmGg9Iwn6-14" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="jjamF76ZFGLM61fMGyJo-2" target="KFwMwqqR918DmGg9Iwn6-2" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="190" y="3590" as="sourcePoint" />
             <mxPoint x="290" y="3490" as="targetPoint" />
@@ -1956,7 +1956,7 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KFwMwqqR918DmGg9Iwn6-55" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;" parent="1" source="KFwMwqqR918DmGg9Iwn6-42" target="KFwMwqqR918DmGg9Iwn6-29" edge="1">
+        <mxCell id="KFwMwqqR918DmGg9Iwn6-55" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="KFwMwqqR918DmGg9Iwn6-42" target="KFwMwqqR918DmGg9Iwn6-29" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="940" y="3830" as="sourcePoint" />
             <mxPoint x="1040" y="3730" as="targetPoint" />
@@ -2066,7 +2066,7 @@
         <mxCell id="pSMPOk4TRob-6HNMPfjb-2" value="&lt;div&gt;Oefening 9&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight:600&quot; data-token-index=&quot;0&quot; class=&quot;notion-enable-hover&quot;&gt;Projecten voor de architect&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Dit model laat toe een &lt;span class=&quot;notion-enable-hover&quot; data-token-index=&quot;1&quot; style=&quot;font-style:italic&quot;&gt;project&lt;/span&gt; van een &lt;span class=&quot;notion-enable-hover&quot; data-token-index=&quot;3&quot; style=&quot;font-style:italic&quot;&gt;klant&lt;/span&gt; toe te kennen aan een &lt;span class=&quot;notion-enable-hover&quot; data-token-index=&quot;5&quot; style=&quot;font-style:italic&quot;&gt;architect&lt;/span&gt;. Zowel klant, architect als project worden eenduidig geïdentificeerd door een naam. Van zowel klant als architect zijn email en telefoonnummer gekend.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Een project kent een begindatum en er wordt een budget toegekend. Het budget is de prijs die de klant maximaal wenst te betalen. Om te kunnen vergelijken met dit budget, worden de gepresteerde uren van het toegekende project bijgehouden en ingevoerd in onze database. Er wordt bij de start van het project een schatting gemaakte van het aantal nodige uren. Ook deze geschatte uren worden bewaard in de database. Enkel het totaal aantal gepresteerde en geschatte uren wordt bijgehouden om bij afloop van het project deze beide met elkaar te kunnen vergelijken.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;notion-enable-hover&quot; data-token-index=&quot;0&quot; style=&quot;font-weight:600&quot;&gt;Tip&lt;/span&gt;: de meest eenvoudige uitwerking kan worden gerealiseerd met een drietal entiteiten, voorzover een klant maar één project heeft. Maar wat als een klant meerdere keren dezelfde projecten wil? Vier entiteiten dan? Probeer!&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Teken het &lt;span class=&quot;notion-enable-hover&quot; data-token-index=&quot;1&quot; style=&quot;font-weight:600&quot;&gt;Entity-Relationship Diagram (ERD)&lt;/span&gt;.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;(project_id, project_name, project_l&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="8722" width="1049" height="529" as="geometry" />
         </mxCell>
-        <mxCell id="pSMPOk4TRob-6HNMPfjb-21" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;" edge="1" parent="1" source="jjamF76ZFGLM61fMGyJo-29" target="KFwMwqqR918DmGg9Iwn6-32">
+        <mxCell id="pSMPOk4TRob-6HNMPfjb-21" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="jjamF76ZFGLM61fMGyJo-29" target="KFwMwqqR918DmGg9Iwn6-32">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="920" y="3430" as="sourcePoint" />
             <mxPoint x="1020" y="3330" as="targetPoint" />
@@ -2353,7 +2353,7 @@
         <mxCell id="Cg5Izw_Tr039Pj_iAxEz-1" value="&lt;p&gt;Oef 10&lt;br&gt;&lt;/p&gt;&lt;p&gt;3NV(FamilyID , Adress , Zipcode , City , HouseNumber)&lt;/p&gt;&lt;p&gt;3NV(patiënten , Firstname , Lastname , Mutaliteit , PhoneNumber , FamilyID)&lt;/p&gt;&lt;p&gt;3NV(diagnose , VisitDate)&lt;/p&gt;&lt;p&gt;3NV(Diagnose , patiënten)&lt;/p&gt;&lt;p&gt;3NV(Medication , portions , Date , Diagnose)&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="15" y="10640" width="440" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="pSMPOk4TRob-6HNMPfjb-63" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;" edge="1" parent="1" source="pSMPOk4TRob-6HNMPfjb-54" target="jjamF76ZFGLM61fMGyJo-2">
+        <mxCell id="pSMPOk4TRob-6HNMPfjb-63" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="pSMPOk4TRob-6HNMPfjb-54" target="jjamF76ZFGLM61fMGyJo-2">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="360" y="3590" as="sourcePoint" />
             <mxPoint x="460" y="3490" as="targetPoint" />
@@ -2475,7 +2475,7 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pSMPOk4TRob-6HNMPfjb-96" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;" edge="1" parent="1" source="pSMPOk4TRob-6HNMPfjb-23" target="pSMPOk4TRob-6HNMPfjb-83">
+        <mxCell id="pSMPOk4TRob-6HNMPfjb-96" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="pSMPOk4TRob-6HNMPfjb-23" target="pSMPOk4TRob-6HNMPfjb-83">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="280" y="3920" as="sourcePoint" />
             <mxPoint x="380" y="3820" as="targetPoint" />
@@ -2487,7 +2487,7 @@
             <mxPoint x="580" y="7930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pSMPOk4TRob-6HNMPfjb-97" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;" edge="1" parent="1" source="KFwMwqqR918DmGg9Iwn6-42" target="pSMPOk4TRob-6HNMPfjb-86">
+        <mxCell id="pSMPOk4TRob-6HNMPfjb-97" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="KFwMwqqR918DmGg9Iwn6-42" target="pSMPOk4TRob-6HNMPfjb-86">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="570" y="3970" as="sourcePoint" />
             <mxPoint x="710" y="3900" as="targetPoint" />
@@ -2574,7 +2574,7 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pSMPOk4TRob-6HNMPfjb-98" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;rounded=0;" edge="1" parent="1" target="KFwMwqqR918DmGg9Iwn6-42">
+        <mxCell id="pSMPOk4TRob-6HNMPfjb-98" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" target="KFwMwqqR918DmGg9Iwn6-42">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="850" y="3660" as="sourcePoint" />
             <mxPoint x="1119" y="3835" as="targetPoint" />
@@ -2635,7 +2635,7 @@
             <mxRectangle width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pSMPOk4TRob-6HNMPfjb-99" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;" edge="1" parent="1" target="KFwMwqqR918DmGg9Iwn6-5">
+        <mxCell id="pSMPOk4TRob-6HNMPfjb-99" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" target="KFwMwqqR918DmGg9Iwn6-5">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="830" y="3660" as="sourcePoint" />
             <mxPoint x="710" y="3600" as="targetPoint" />
