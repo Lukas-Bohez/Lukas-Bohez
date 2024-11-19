@@ -3286,6 +3286,9 @@
             <mxPoint x="450" y="12020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Cg5Izw_Tr039Pj_iAxEz-188" value="&lt;div&gt;Verbetering&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;Oef  4&lt;/p&gt;&lt;p&gt;Verplaats LocationID naar beurten en laat de Voorschrift en Member tabel weg&lt;/p&gt;&lt;p&gt;Oef 5&lt;/p&gt;&lt;p&gt;Student aan vak linken&lt;/p&gt;&lt;p&gt;Oef 6&lt;/p&gt;&lt;br&gt;&lt;p&gt;leaseDate moet naar leasedBooks&lt;/p&gt;&lt;br&gt;&lt;p&gt;Oef 7&lt;/p&gt;&lt;br&gt;&lt;p&gt;maar 3 tabelen&lt;/p&gt;&lt;br&gt;&lt;p&gt;Members , Results , Disipline&lt;/p&gt;&lt;br&gt;&lt;p&gt;De 3 laatste tabel mag allemaal naar 1.&lt;/p&gt;&lt;br&gt;&lt;p&gt;Oef 8&lt;/p&gt;&lt;br&gt;&lt;p&gt;Users in GroupChat mag weg&lt;/p&gt;&lt;br&gt;&lt;p&gt;Oef 9&lt;/p&gt;&lt;br&gt;&lt;p&gt;Voledig Juist&lt;/p&gt;&lt;br&gt;&lt;p&gt;Oef 10&lt;/p&gt;&lt;br&gt;&lt;p&gt;Diagnose aan medecation&lt;/p&gt;&lt;br&gt;&lt;p&gt;En Table naar Bezoek&lt;/p&gt;&lt;br&gt;&lt;p&gt;Oef 11&lt;/p&gt;&lt;br&gt;&lt;p&gt;Klassen mag weg&lt;/p&gt;&lt;br&gt;&lt;p&gt;Tussen tabel, vakken en softwaire&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="13600" width="450" height="1070" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
