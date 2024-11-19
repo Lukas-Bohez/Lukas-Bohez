@@ -1438,6 +1438,9 @@
             <mxPoint x="1120" y="3550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WWx78naGnFSB__ZN2mZ5-1" value="&lt;p&gt;3NV(&lt;strong&gt;MemberID&lt;/strong&gt; , Firstname , Lastname , adres , Zipcode , CIty , Phonenumber)&lt;/p&gt;&#xa;&lt;p&gt;3NV(&lt;strong&gt;MemberID&lt;/strong&gt; , &lt;strong&gt;100m&lt;/strong&gt; , &lt;strong&gt;200m&lt;/strong&gt; , &lt;strong&gt;400m&lt;/strong&gt;)&lt;/p&gt;&#xa;&lt;p&gt;3NV(&lt;strong&gt;100m&lt;/strong&gt; , Location , Date , Time , BelgischRecord , EuroRecord , WorldRecord)&lt;/p&gt;&#xa;&lt;p&gt;3NV(&lt;strong&gt;200m&lt;/strong&gt; , Location , Date , Time , BelgischRecord , EuroRecord , WorldRecord)&lt;/p&gt;&#xa;&lt;p&gt;3NV(&lt;strong&gt;400m&lt;/strong&gt; , Location , Date , Time , BelgischRecord , EuroRecord , WorldRecord)&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="6140" width="470" height="270" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
