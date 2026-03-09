@@ -18,9 +18,11 @@ ConvertTheSpire (Cross-Platform Media Engine)
 
 A high-performance Flutter application for native media management.
 
-    Performance: Utilizes youtube_explode_dart to handle streams natively, reducing latency compared to traditional web-wrappers.
+    Performance: Utilizes youtube_explode_dart to handle streams natively, 
+    reducing latency compared to traditional web-wrappers.
 
-    Innovation: Architected local metadata processing and bulk conversion workflows, ensuring user privacy and bypassing traditional server-side bottlenecks.
+    Innovation: Architected local metadata processing and bulk conversion workflows, 
+    ensuring user privacy and bypassing traditional server-side bottlenecks.
 
     Result: Delivered a seamless, bloat-free experience for local media management on Desktop and Mobile.
 
