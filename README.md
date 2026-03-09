@@ -11,7 +11,9 @@ Backend & APIs	FastAPI, RESTful API Design, Apache2, Linux SysAdmin
 Media Engineering	yt-dlp, FFmpeg, youtube_explode_dart (Native Stream Handling)
 Infrastructure	Raspberry Pi 5 (Production Environment), Docker, Port Management, CI/CD
 Data Architecture	MySQL, SQLite, JSON-based State Management
+
 🚀 Key Technical Projects
+
 ConvertTheSpire (Cross-Platform Media Engine)
 
 A high-performance Flutter application for native media management.
