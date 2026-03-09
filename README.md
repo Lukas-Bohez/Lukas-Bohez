@@ -1,37 +1,46 @@
 👋 Hi, I’m Lukas Bohez
 
-Full-Stack Developer | Flutter & Python Enthusiast | Self-Hosting Advocate
+Full-Stack Developer | Python & Flutter Specialist | Self-Hosting Enthusiast
 
-I am a developer focused on creating open-source tools that simplify media management and web interaction. My work bridges the gap between high-performance backends (Python) and cross-platform frontends (Flutter), often deployed on my own self-hosted infrastructure.
-🛠️ Technical Stack
+I am a software developer focused on building high-utility, open-source tools that streamline media management and web interactions. By bridging Python backends with Flutter cross-platform frontends, I create seamless user experiences deployed on my own self-hosted infrastructure.
+🛠️ Technical Ecosystem
 Category	Technologies
-Languages	Python, Dart, JavaScript
+Languages	Python, Dart, JavaScript, HTML5/CSS3
 Frameworks	Flutter, FastAPI, Apache2
-Tools	yt-dlp, FFmpeg, Linux (Raspberry Pi 5)
-Databases	MySQL, SQLite
-Hardware	Self-hosted server management, IoT experiments
-🚀 Key Projects
+Media Tools	yt-dlp, FFmpeg, youtube_explode_dart
+Infrastructure	Raspberry Pi 5, Linux SysAdmin, Port Management
+Data	MySQL, SQLite, JSON-based state management
+🚀 Featured Projects
+QuizTheSpire.com
 
-    QuizTheSpire.com
-    My primary hub for web-based tools and experiments. It currently hosts a robust, ad-free YouTube Playlist Downloader, allowing users to convert and download entire playlists to MP3/MP4 format. The backend is powered by Python and yt-dlp, running on a self-hosted Linux environment.
+Despite the name, this is my primary hub for web-based utility tools. It currently hosts a High-Performance YouTube Playlist Downloader.
 
-    Convert the Spire (Reborn)
-    A cross-platform desktop application built with Flutter. It provides a native UI for batch media conversion and downloading, utilizing the youtube_explode_dart package for high-performance stream handling without the overhead of traditional web wrappers.
+    The Tech: Built with a Python backend and an Apache-hosted frontend.
 
-    Web Experiments
-    I also develop lightweight web experiences, including tycoon-style idle games and interactive UI prototypes, focusing on clean code and efficient performance.
+    The Function: It allows users to process and convert entire playlists into MP3/MP4 formats through a clean, ad-free interface without the bloat of traditional converters.
 
+ConvertTheSpire (Reborn)
+
+A dedicated cross-platform desktop and mobile application built using Flutter.
+
+    Key Innovation: Unlike simple web wrappers, it utilizes the youtube_explode_dart package to handle metadata and streams natively.
+
+    The Goal: Providing a high-performance, local alternative for bulk media conversion and management.
+
+Self-Hosted Home Lab
+
+I manage a production environment on Raspberry Pi hardware. This includes configuring web servers, securing network traffic, and optimizing low-power hardware for 24/7 tool availability.
 🧠 Interests & Learning
 
-    🌱 Language Learning: Actively studying Japanese (あいわな).
+    🇯🇵 Language: Currently learning Japanese (あいわな).
 
     🎮 Gaming: Long-time player of Ark: Survival Evolved.
 
-    📖 Manga: Currently following series like Ragna Crimson.
+    📖 Manga: Following series like Ragna Crimson.
 
-    🎬 Content Creation: Experienced in video editing and digital storytelling.
+    🎬 Creative: Experienced in video editing and digital content strategy.
 
-📬 Contact
+📬 Connect With Me
 
     Discord: sailingdsentialjacksome
 
