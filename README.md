@@ -1,35 +1,38 @@
 👋 Hi, I’m Lukas Bohez
 
-Developer | Content Creator | Python & Flutter Enthusiast
+Full-Stack Developer | Flutter & Python Enthusiast | Self-Hosting Advocate
 
-I am a software developer and content creator dedicated to building tools and experiments at the intersection of gaming, manga, and programming. I specialize in Python and Flutter, creating cross-platform applications that bridge the gap between technical functionality and community engagement.
-🛠️ Technical Toolkit
+I am a developer focused on creating open-source tools that simplify media management and web interaction. My work bridges the gap between high-performance backends (Python) and cross-platform frontends (Flutter), often deployed on my own self-hosted infrastructure.
+🛠️ Technical Stack
 Category	Technologies
-Languages	Python, Dart
-Frameworks	Flutter
-Specialties	Cross-platform UI/UX, Data Processing, Tool Development
-Creative	Video Editing, Content Strategy
-🚀 Featured Projects
+Languages	Python, Dart, JavaScript
+Frameworks	Flutter, FastAPI, Apache2
+Tools	yt-dlp, FFmpeg, Linux (Raspberry Pi 5)
+Databases	MySQL, SQLite
+Hardware	Self-hosted server management, IoT experiments
+🚀 Key Projects
 
-    QuizTheSpire
-    A comprehensive fan-driven web application built for the Slay the Spire community. It features complex logic for cards, relics, and game mechanics to test player mastery through interactive quizzes.
+    QuizTheSpire.com
+    My primary hub for web-based tools and experiments. It currently hosts a robust, ad-free YouTube Playlist Downloader, allowing users to convert and download entire playlists to MP3/MP4 format. The backend is powered by Python and yt-dlp, running on a self-hosted Linux environment.
 
-    ConvertTheSpireFlutter
-    An experimental Flutter application designed to process and convert game-specific data. This project serves as a deep dive into fast tool development and efficient UI design for data-heavy environments.
+    Convert the Spire (Reborn)
+    A cross-platform desktop application built with Flutter. It provides a native UI for batch media conversion and downloading, utilizing the youtube_explode_dart package for high-performance stream handling without the overhead of traditional web wrappers.
 
-🧠 Current Focus & Learning
+    Web Experiments
+    I also develop lightweight web experiences, including tycoon-style idle games and interactive UI prototypes, focusing on clean code and efficient performance.
 
-    🌱 Deepening Proficiency: Advancing my mastery of Python backend architecture.
+🧠 Interests & Learning
 
-    🇯🇵 Language Learning: Studying Japanese to better engage with international media and communities.
+    🌱 Language Learning: Actively studying Japanese (あいわな).
 
-    🤝 Collaboration: Actively looking to contribute to open-source Python or Flutter projects.
+    🎮 Gaming: Long-time player of Ark: Survival Evolved.
 
-🎮 Beyond the Code
+    📖 Manga: Currently following series like Ragna Crimson.
 
-When I’m not at the keyboard, you’ll find me exploring the survival mechanics of Ark: Survival Evolved, catching up on manga like Ragna Crimson, or in the editing suite producing new video content.
-📬 Connect With Me
+    🎬 Content Creation: Experienced in video editing and digital storytelling.
+
+📬 Contact
 
     Discord: sailingdsentialjacksome
 
-    Fun Fact: I’m currently learning Japanese. One of my favorite phrases to practice is 「あいわな」(I wanna).
+    GitHub: Lukas-Bohez
