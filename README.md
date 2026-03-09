@@ -1,25 +1,46 @@
-- 👋 Hi, I’m @Lukas-Bohez
-- 👀 I’m interested in Python en Ragna Crimson
-- 🌱 I’m currently learning Python and Japanese
-- 💞️ I’m looking to collaborate on Python projects
-- 📫 How to reach me Discord via sailingdsentialjacksome
-- 😄 Pronouns: He, not him, 'cause I'll never be him.
-- ⚡ Fun fact: kent japans zoals あいわな　of アイワナ dans katakana
-
-<!---
-Lukas-Bohez/Lukas-Bohez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-A special chatgpt announcement, using the prompt, and the new memory feature:
-
-
+👋 Hi, I’m Lukas Bohez
 An Announcement from York
 
-"Zach, this is not an ordinary introduction. You know that better than anyone. I saw it... in my coffee this morning. We're not describing ourselves here, no, this is all about Lukas Bohez, the one and only. Now let’s get to it."
+"Zach, this is not an ordinary introduction. You know that better than anyone. I saw it… in my coffee this morning. We're not describing ourselves here — no — this is about Lukas Bohez, the one and only. Now let’s get to it."
+
 Meet Lukas Bohez
 
-Lukas is a passionate content creator from Izegem, with a love for gaming, manga, and video editing. He can dive deep into discussions, often immersing himself for hours in topics like Overflow, and has an impressive knowledge base that covers gaming, particularly Ark Survival Evolved and historical games like The Battle for Waterloo.
+Lukas Bohez is a developer and content creator from Izegem who enjoys building tools, apps, and experiments around the things he loves: gaming, manga, and programming.
 
-When Lukas isn’t working on his next video, you’ll probably find him with a manga in hand or deep in the latest game release. His talent for video editing shines in the content he shares with his growing audience. Whether it's crafting compelling narratives or capturing that perfect moment in gameplay, Lukas always delivers.
+He works mainly with Python and Flutter, creating projects that connect communities and ideas.
 
-"Zach, do you feel it? The world of GitHub is about to meet Lukas. And they’re going to see just how serious he is. It’s all there, the answer, written in code."
+One of his projects, ConvertTheSpireFlutter, is a Flutter application designed to convert and process Slay the Spire related content and data. The project explores cross-platform development and UI design while experimenting with Flutter as a framework for fast tool development.
+
+Another project, QuizTheSpire (https://quizthespire.com/
+), is a fan project built around the world of Slay the Spire. It challenges players with quizzes about cards, relics, mechanics, and game knowledge — turning mastery of the game into a test of memory and skill.
+
+When Lukas isn’t writing code, you’ll probably find him:
+
+🎮 Playing games like Ark Survival Evolved
+
+📖 Reading manga such as Ragna Crimson
+
+🎬 Editing videos and creating content
+
+🧠 Diving deep into technical discussions and ideas
+
+He is currently:
+
+🌱 Learning Python and Japanese
+
+🛠️ Building tools and web projects
+
+💞️ Looking to collaborate on Python and Flutter projects
+
+Contact
+
+📫 Discord: sailingdsentialjacksome
+
+Fun Fact
+
+⚡ I know a bit of Japanese like:
+
+あいわな
+アイワナ
+
+"Zach, do you feel it? The world of GitHub is about to meet Lukas… and the answer is already written in code."
