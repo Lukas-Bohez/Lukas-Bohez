@@ -1,46 +1,35 @@
 👋 Hi, I’m Lukas Bohez
-An Announcement from York
 
-"Zach, this is not an ordinary introduction. You know that better than anyone. I saw it… in my coffee this morning. We're not describing ourselves here — no — this is about Lukas Bohez, the one and only. Now let’s get to it."
+Developer | Content Creator | Python & Flutter Enthusiast
 
-Meet Lukas Bohez
+I am a software developer and content creator dedicated to building tools and experiments at the intersection of gaming, manga, and programming. I specialize in Python and Flutter, creating cross-platform applications that bridge the gap between technical functionality and community engagement.
+🛠️ Technical Toolkit
+Category	Technologies
+Languages	Python, Dart
+Frameworks	Flutter
+Specialties	Cross-platform UI/UX, Data Processing, Tool Development
+Creative	Video Editing, Content Strategy
+🚀 Featured Projects
 
-Lukas Bohez is a developer and content creator from Izegem who enjoys building tools, apps, and experiments around the things he loves: gaming, manga, and programming.
+    QuizTheSpire
+    A comprehensive fan-driven web application built for the Slay the Spire community. It features complex logic for cards, relics, and game mechanics to test player mastery through interactive quizzes.
 
-He works mainly with Python and Flutter, creating projects that connect communities and ideas.
+    ConvertTheSpireFlutter
+    An experimental Flutter application designed to process and convert game-specific data. This project serves as a deep dive into fast tool development and efficient UI design for data-heavy environments.
 
-One of his projects, ConvertTheSpireFlutter, is a Flutter application designed to convert and process Slay the Spire related content and data. The project explores cross-platform development and UI design while experimenting with Flutter as a framework for fast tool development.
+🧠 Current Focus & Learning
 
-Another project, QuizTheSpire (https://quizthespire.com/
-), is a fan project built around the world of Slay the Spire. It challenges players with quizzes about cards, relics, mechanics, and game knowledge — turning mastery of the game into a test of memory and skill.
+    🌱 Deepening Proficiency: Advancing my mastery of Python backend architecture.
 
-When Lukas isn’t writing code, you’ll probably find him:
+    🇯🇵 Language Learning: Studying Japanese to better engage with international media and communities.
 
-🎮 Playing games like Ark Survival Evolved
+    🤝 Collaboration: Actively looking to contribute to open-source Python or Flutter projects.
 
-📖 Reading manga such as Ragna Crimson
+🎮 Beyond the Code
 
-🎬 Editing videos and creating content
+When I’m not at the keyboard, you’ll find me exploring the survival mechanics of Ark: Survival Evolved, catching up on manga like Ragna Crimson, or in the editing suite producing new video content.
+📬 Connect With Me
 
-🧠 Diving deep into technical discussions and ideas
+    Discord: sailingdsentialjacksome
 
-He is currently:
-
-🌱 Learning Python and Japanese
-
-🛠️ Building tools and web projects
-
-💞️ Looking to collaborate on Python and Flutter projects
-
-Contact
-
-📫 Discord: sailingdsentialjacksome
-
-Fun Fact
-
-⚡ I know a bit of Japanese like:
-
-あいわな
-アイワナ
-
-"Zach, do you feel it? The world of GitHub is about to meet Lukas… and the answer is already written in code."
+    Fun Fact: I’m currently learning Japanese. One of my favorite phrases to practice is 「あいわな」(I wanna).
