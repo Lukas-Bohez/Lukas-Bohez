@@ -46,9 +46,11 @@ Managing a 24/7 production environment on Raspberry Pi 5 hardware.
 
 🧠 Personal Development & Interests
 
-    Cultural Competency: Currently studying Japanese (あいわな), focusing on linguistic logic and cross-cultural communication.
+    Cultural Competency: Currently studying Japanese (あいわな), 
+    focusing on linguistic logic and cross-cultural communication.
 
-    Narrative Analysis: Long-time enthusiast of strategic gaming (Ark: Survival Evolved) and modern manga (Ragna Crimson), which informs my approach to complex system design and user engagement.
+    Narrative Analysis: Long-time enthusiast of strategic gaming and modern manga (Ragna Crimson), 
+    which informs my approach to complex system design and user engagement.
 
     Creative Content: Experienced in digital content strategy and professional video editing.
 
