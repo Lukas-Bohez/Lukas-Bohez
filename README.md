@@ -1,47 +1,55 @@
-👋 Hi, I’m Lukas Bohez
+Lukas Bohez
 
-Full-Stack Developer | Python & Flutter Specialist | Self-Hosting Enthusiast
+Full-Stack Software Engineer | Python & Flutter Specialist Building High-Performance Media Systems & Scalable Self-Hosted Infrastructure
+Professional Profile
 
-I am a software developer focused on building high-utility, open-source tools that streamline media management and web interactions. By bridging Python backends with Flutter cross-platform frontends, I create seamless user experiences deployed on my own self-hosted infrastructure.
-🛠️ Technical Ecosystem
+Results-driven Full-Stack Developer with a specialization in Python backends and Flutter cross-platform frontends. Expert in engineering high-utility tools for media management, metadata processing, and web automation. Proven track record of deploying production-grade applications on self-hosted Linux infrastructure, prioritizing data sovereignty, performance, and ad-free user experiences.
+🛠️ Technical Expertise
 Category	Technologies
-Languages	Python, Dart, JavaScript, HTML5/CSS3
-Frameworks	Flutter, FastAPI, Apache2
-Media Tools	yt-dlp, FFmpeg, youtube_explode_dart
-Infrastructure	Raspberry Pi 5, Linux SysAdmin, Port Management
-Data	MySQL, SQLite, JSON-based state management
-🚀 Featured Projects
-QuizTheSpire.com
+Languages	Python (Expert), Dart/Flutter (Advanced), JavaScript, HTML5/CSS3
+Backend & APIs	FastAPI, RESTful API Design, Apache2, Linux SysAdmin
+Media Engineering	yt-dlp, FFmpeg, youtube_explode_dart (Native Stream Handling)
+Infrastructure	Raspberry Pi 5 (Production Environment), Docker, Port Management, CI/CD
+Data Architecture	MySQL, SQLite, JSON-based State Management
+🚀 Key Technical Projects
+ConvertTheSpire (Cross-Platform Media Engine)
 
-Despite the name, this is my primary hub for web-based utility tools. It currently hosts a High-Performance YouTube Playlist Downloader.
+A high-performance Flutter application for native media management.
 
-    The Tech: Built with a Python backend and an Apache-hosted frontend.
+    Performance: Utilizes youtube_explode_dart to handle streams natively, reducing latency compared to traditional web-wrappers.
 
-    The Function: It allows users to process and convert entire playlists into MP3/MP4 formats through a clean, ad-free interface without the bloat of traditional converters.
+    Innovation: Architected local metadata processing and bulk conversion workflows, ensuring user privacy and bypassing traditional server-side bottlenecks.
 
-ConvertTheSpire (Reborn)
+    Result: Delivered a seamless, bloat-free experience for local media management on Desktop and Mobile.
 
-A dedicated cross-platform desktop and mobile application built using Flutter.
+QuizTheSpire.com (Web Utility Suite)
 
-    Key Innovation: Unlike simple web wrappers, it utilizes the youtube_explode_dart package to handle metadata and streams natively.
+A production-ready web hub for high-performance YouTube playlist processing.
 
-    The Goal: Providing a high-performance, local alternative for bulk media conversion and management.
+    Engineering: Built a Python-driven backend integrated with an Apache-hosted frontend to handle complex asynchronous tasks.
 
-Self-Hosted Home Lab
+    Problem Solving: Optimized server-side conversion logic to support large-scale playlist processing for MP3/MP4 formats.
 
-I manage a production environment on Raspberry Pi hardware. This includes configuring web servers, securing network traffic, and optimizing low-power hardware for 24/7 tool availability.
-🧠 Interests & Learning
+    UI/UX: Focused on an ad-free, high-utility interface that prioritizes speed over traditional monetization.
 
-    🇯🇵 Language: Currently learning Japanese (あいわな).
+Autonomous Infrastructure (Self-Hosted Lab)
 
-    🎮 Gaming: Long-time player of Ark: Survival Evolved.
+Managing a 24/7 production environment on Raspberry Pi 5 hardware.
 
-    📖 Manga: Following series like Ragna Crimson.
+    Reliability: Configured secure Linux environments with optimized port management and web server hardening.
 
-    🎬 Creative: Experienced in video editing and digital content strategy.
+    Resource Management: Tuned low-power hardware to maintain high uptime for distributed utility tools.
+
+🧠 Personal Development & Interests
+
+    Cultural Competency: Currently studying Japanese (あいわな), focusing on linguistic logic and cross-cultural communication.
+
+    Narrative Analysis: Long-time enthusiast of strategic gaming (Ark: Survival Evolved) and modern manga (Ragna Crimson), which informs my approach to complex system design and user engagement.
+
+    Creative Content: Experienced in digital content strategy and professional video editing.
 
 📬 Connect With Me
 
-    Discord: sailingdsentialjacksome
-
     GitHub: Lukas-Bohez
+
+    Discord: sailingdsentialjacksome
